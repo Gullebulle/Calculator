@@ -1,0 +1,12 @@
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\bin\Debug\net6.0\Functionality.deps.json
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\bin\Debug\net6.0\Functionality.dll
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\bin\Debug\net6.0\ref\Functionality.dll
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\bin\Debug\net6.0\Functionality.pdb
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\obj\Debug\net6.0\Functionality.csproj.AssemblyReference.cache
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\obj\Debug\net6.0\Functionality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\obj\Debug\net6.0\Functionality.AssemblyInfoInputs.cache
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\obj\Debug\net6.0\Functionality.AssemblyInfo.cs
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\obj\Debug\net6.0\Functionality.csproj.CoreCompileInputs.cache
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\obj\Debug\net6.0\Functionality.dll
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\obj\Debug\net6.0\ref\Functionality.dll
+C:\Users\Gullebulle\source\repos\CalculatorDeluxe\Functionality\obj\Debug\net6.0\Functionality.pdb

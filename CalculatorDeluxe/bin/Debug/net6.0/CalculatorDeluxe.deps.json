@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculatorDeluxe/1.0.0": {
+        "dependencies": {
+          "Functionality": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorDeluxe.dll": {}
+        }
+      },
+      "Functionality/1.0.0": {
+        "runtime": {
+          "Functionality.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorDeluxe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Functionality/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
